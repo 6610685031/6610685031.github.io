@@ -7,5 +7,5 @@
 ### มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต
 > คณะวิศวกรรมศาสตร์ สาขาวิชาวิศวกรรมคอมพิวเตอร์ (https://engr.tu.ac.th/)
 
-สนใจในด้านการ Reverse Engineering\
+สนใจในด้านการ Reverse Engineering, Web Development (HTML, CSS, JavaScript)\
 ติดต่อ: kmgameplayer321@gmail.com
